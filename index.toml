@@ -7,4 +7,4 @@ indexurl = "https://raw.githubusercontent.com/voltiksrc/SMECT-Inventory/main/ind
 [packages]
 zlib = "packages/zlib/package.toml"
 libpng = "packages/libpng/package.toml"
-btop = "package/btop/package.toml"
+btop = "packages/btop/package.toml"
