@@ -1,6 +1,10 @@
+# This is the index file which will temporarily hold the location of packages
+# and the index url.
+
 [repository]
 indexurl = "https://raw.githubusercontent.com/voltiksrc/SMECT-Inventory/main/index.toml"
 
 [packages]
 zlib = "packages/zlib/package.toml"
 libpng = "packages/libpng/package.toml"
+btop = "package/btop/package.toml"
