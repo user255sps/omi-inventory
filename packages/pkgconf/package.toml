@@ -1,10 +1,10 @@
 [package]
 name = "pkgconf"
-version = "3.0.10"
+version = "2.5.1"
 
 [source]
-url = "https://github.com/pkgconf/pkgconf/archive/refs/tags/pkgconf-3.0.10.tar.gz"
-sha256 = "d01a1b82f0884112d08c6dfad46f43f415d070a6a5a6aaa77ebf2674e973a9b5"
+url = "https://distfiles.ariadne.space/pkgconf/pkgconf-2.5.1.tar.xz"
+sha256 = "cd05c9589b9f86ecf044c10a2269822bc9eb001eced2582cfffd658b0a50c243"
 
 [build]
-system = "make"
+system = "meson"
