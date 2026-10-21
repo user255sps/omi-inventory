@@ -1,5 +1,5 @@
 # This is the index file which will temporarily hold the location of packages
-# and the index url.
+# and the index url for omi to download.
 
 [repository]
 indexurl = "https://raw.githubusercontent.com/voltiksrc/omi-inventory/main/index.toml"
@@ -8,3 +8,7 @@ indexurl = "https://raw.githubusercontent.com/voltiksrc/omi-inventory/main/index
 zlib = "packages/zlib/package.toml"
 libpng = "packages/libpng/package.toml"
 btop = "packages/btop/package.toml"
+tree = "packages/tree/package.toml"
+fastfetch = "packages/fastfetch/package.toml"
+ffmpeg = "packages/ffmpeg/package.toml"
+libjpeg-turbo = "packages/libjpeg-turbo/package.toml"
