@@ -1,0 +1,10 @@
+[package]
+name = "balena-etcher"
+version = "2.1.8"
+
+[source]
+url = "https://github.com/balena-io/etcher/archive/refs/tags/v2.1.8.tar.gz"
+sha256 = "dc7e2d771249d435de6c5e07e4985fb63dc19516ff4f575c3e5dd984d199dd1a"
+
+[build]
+system = "make"
